@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\task\market_app\market_app\obj\Debug\net6.0\market_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\task\market_app\market_app\obj\Debug\net6.0\market_app.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\task\market_app\market_app\obj\Debug\net6.0\market_app.AssemblyInfo.cs
+C:\Users\User\Desktop\task\market_app\market_app\obj\Debug\net6.0\market_app.csproj.CoreCompileInputs.cache
